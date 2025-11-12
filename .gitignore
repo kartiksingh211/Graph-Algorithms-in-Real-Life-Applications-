@@ -1,5 +1,37 @@
-# Object file
-*.o
+```bash
+# Virtual environments
+venv/
+env/
 
-# Ada Library Information
-*.ali
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Build or dist folders
+build/
+dist/
+*.egg-info/
+
+# Optional: datasets (if not required in repo)
+# *.csv
+# *.xlsx
