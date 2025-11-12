@@ -5,16 +5,16 @@
 
 ---
 
-## 📘 Overview
+##  Overview
 This project demonstrates how classical **graph algorithms** are applied to real-world scenarios.  
 The notebook implements and analyzes four problems:
 
 | No. | Problem | Algorithm | Type |
 |-----|----------|------------|------|
-| 1️⃣ | Social Network Friend Suggestion | BFS / DFS | Unweighted Graph |
-| 2️⃣ | Route Finding (Google Maps) | Bellman–Ford | Weighted Directed Graph |
-| 3️⃣ | Emergency Response Routing | Dijkstra’s Algorithm | Weighted Graph (Positive Edges) |
-| 4️⃣ | Network Cable Installation | Minimum Spanning Tree (Kruskal / Prim) | Undirected Weighted Graph |
+| 1️ | Social Network Friend Suggestion | BFS / DFS | Unweighted Graph |
+| 2️ | Route Finding (Google Maps) | Bellman–Ford | Weighted Directed Graph |
+| 3️ | Emergency Response Routing | Dijkstra’s Algorithm | Weighted Graph (Positive Edges) |
+| 4️ | Network Cable Installation | Minimum Spanning Tree (Kruskal / Prim) | Undirected Weighted Graph |
 
 Each problem includes:
 - Python implementation  
@@ -24,8 +24,8 @@ Each problem includes:
 
 ---
 
-## ⚙️ How to Run (Google Colab / Local)
-### 🟢 On Google Colab
+##  How to Run (Google Colab / Local)
+###  On Google Colab
 1. Upload the notebook file `graph_realworld.ipynb` to Colab.  
 2. Run the setup cell (install dependencies):  
    ```python
